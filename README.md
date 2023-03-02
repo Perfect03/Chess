@@ -1,0 +1,1 @@
+Chess SPA (on React)
